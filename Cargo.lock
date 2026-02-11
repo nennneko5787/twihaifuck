@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "twihaifuck"
+name = "twfck"
 version = "0.0.1"
